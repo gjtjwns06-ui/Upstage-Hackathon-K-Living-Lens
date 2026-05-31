@@ -29,6 +29,7 @@
 ---
 
 ## ⚙️ 기술 스택 및 아키텍처 (Tech Stack)
+<img width="2463" height="1169" alt="스크린샷 2026-05-30 210348" src="https://github.com/user-attachments/assets/d6ec93cb-0246-460b-bfdb-e0b94424ce9f" />
 
 본 프로젝트의 백엔드 파이프라인은 **n8n**을 기반으로 완벽하게 모듈화(Decoupling)되어 설계되었습니다.
 
